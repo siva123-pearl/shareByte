@@ -1,0 +1,8 @@
+{
+  "name": "Share Bite",
+  "description": "A sophisticated food donation platform connecting surplus food from donors to local communities in need, powered by Gemini AI for smart categorization and location-based matching.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
